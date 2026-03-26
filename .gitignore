@@ -1,0 +1,8 @@
+ocr_env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+output/
+.DS_Store
+Thumbs.db
